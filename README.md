@@ -6,9 +6,17 @@ It's aim is to get rid of all of the green and just use a plain white-grey-black
 Ten projekt zmienia wygląd strony dziennik.ekos.edu.pl.
 Jego celem jest całkowite pozbycie się zielonego i wstawienie prostego, biało-szaro-czarnego wyglądu.
 
-###Available for free at the Chrome Web Store:
+### Available for free at the Chrome Web Store:
 
 [ChromeDziennikSimpleSkin](https://chrome.google.com/webstore/detail/chromedzienniksimpleskin/bohghidmmhgihlcndmhjkcicbdpjlbab)
+
+## Screenshots
+
+![Login](https://lh3.googleusercontent.com/lITUbXZ7v-ngjHiKzhYbNrP3RA6MMlhdwBhAyZ6gXLlEYjbc5fOoTyosYrCIqOn3pZsH7ikrrIU=s640-h400-e365-rw)
+
+![Messages](https://lh3.googleusercontent.com/cYO5KZBI91wmOx5eX1b9QYxPb-Pn51IhlLrZxkknW3ExGAEufdBK_Z2X9VOnltWN1Z8oImXdpsI=s640-h400-e365-rw)
+
+![Timetable](https://lh3.googleusercontent.com/IVSiWUTGKkELYE1WP-zJ-ahewH5hDSP4Ld5L2hmmmTkmHrSY5jy_jyvA0tRLfld_wAsTCFp_=s640-h400-e365-rw)
 
 ## Installation
 
